@@ -1,0 +1,35 @@
+- title: EP01-The Rise of Quantum Computing
+  description: Jane Smith and guest Dr. Alice Roberts discuss the breakthroughs in
+    quantum computing and what it means for the tech industry in the coming years.
+  creation_at: '2024-09-15 15:47:28'
+  file: audio\TH01.mp3
+  duration: 0:01:00
+  length: 482,671
+- title: EP02-Navigating the AI Landscape
+  description: AI expert John Doe shares insights on the rapidly evolving AI landscape
+    and how businesses can adapt to stay ahead of the curve.
+  creation_at: '2024-09-15 15:47:28'
+  file: audio\TH02.mp3
+  duration: 0:00:48
+  length: 1,162,747
+- title: EP03-The Future of Cybersecurity
+  description: Cybersecurity specialist Lisa Wong discusses the latest trends in cybersecurity
+    and the importance of staying vigilant in a digital world.
+  creation_at: '2024-09-16 07:56:29'
+  file: audio\TH03.mp3
+  duration: 0:02:00
+  length: 2,890,590
+- title: EP04-Blockchain Beyond Bitcoin
+  description: Blockchain expert Mark Evans explores the potential applications of
+    blockchain technology beyond cryptocurrencies and its impact on various industries.
+  creation_at: '2024-09-16 07:56:57'
+  file: audio\TH04.mp3
+  duration: 0:00:40
+  length: 970,904
+- title: EP05-Sustainable Tech Innovations
+  description: Environmental technologist Sarah Green discusses how technology is
+    driving sustainability and the latest innovations aimed at preserving our planet.
+  creation_at: '2024-09-16 07:57:14'
+  file: audio\TH05.mp3
+  duration: 0:00:30
+  length: 730,784
